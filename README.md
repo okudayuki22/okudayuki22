@@ -5,10 +5,12 @@ I am Okuda Yuuki (奥田悠来), a Hobby Developer from Japan that often Codes i
 
 ---
 
+<p align="center">
 ![Static Badge](https://img.shields.io/badge/Japan-%E6%97%A5%E6%9C%AC-red?logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/C-C%E8%A8%80%E8%AA%9E-blue?logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-C%2B%2B%E8%A8%80%E8%AA%9E-darkblue?logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/OSDev-OS%E9%96%8B%E7%99%BA%E5%85%83-green?logoSize=auto)
+</p>
 
 <p align="center">
   <img src="https://github.com/okudayuki22/okudayuki22/blob/main/Linux.gif?raw=true"/>
