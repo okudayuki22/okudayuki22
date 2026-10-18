@@ -13,7 +13,5 @@ I am Okuda Yuuki (奥田悠来), a Hobby Developer from Japan that often Codes i
 </p>
 
 <p align="center">
-  <img src="https://github.com/okudayuki22/okudayuki22/blob/main/Linux.gif?raw=true"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=okudayuki22&layout=pie&langs_count=20&theme=shadow_green" />
 </p>
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=okudayuki22&layout=pie&langs_count=20&theme=shadow_green)](https://github-stats-extended.vercel.app/api/top-langs?username=okudayuki22&layout=pie&langs_count=20&theme=shadow_green)
