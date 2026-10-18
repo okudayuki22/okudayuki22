@@ -6,11 +6,11 @@
 
 # こんにちは〜
 
-I am Okuda Yuuki (奥田悠来), a Hobby Developer from Japan. I Code in C. I am a Operation System and Low Level System Developer. I use OpenSUSE.
+I am Okuda Yūki (奥田悠来), a Hobby Developer from Japan. I Code in C. I am a Operation System and Low Level System Developer. I use OpenSUSE.
 
 <br>
 
-俺は奥田悠来です、趣味の開発元に日本出身です。 おれがC言語をプログラムする。おれがOSとローエンド開発元です。おれが「OpenSUSE」を使う。
+俺は奥田悠来だよ、趣味の開発元に日本出身だよ。 おれがC言語をプログラムする。おれがOSとローエンド開発元だよ。おれが「OpenSUSE」を使う。
 
 ---
 
