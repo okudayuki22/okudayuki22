@@ -22,5 +22,5 @@ I am Okuda Yuuki (奥田悠来), a Hobby Developer from Japan. I Code in C. I am
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=okudayuki22&layout=pie&langs_count=20&theme=green" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=okudayuki22&layout=pie&langs_count=20&theme=darkgreen" />
 </p>
