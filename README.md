@@ -6,8 +6,6 @@
 
 # こんにちは〜
 
----
-
 I am Okuda Yuuki (奥田悠来), a Hobby Developer from Japan. I Code in C. I am a Operation System and Other Low Level System Stuff. I use OpenSUSE.
 
 <br>
