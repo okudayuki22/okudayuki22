@@ -1,4 +1,8 @@
-## こんにちは〜
+<p align="center">
+  <img src="https://github.com/okudayuki22/okudayuki22/blob/main/bdedb48cc353c83b6e6e35ef796b7b42.jpg?raw=true" />
+</p>
+
+### こんにちは〜
 
 ### About me
 I am Okuda Yuuki (奥田悠来), a Hobby Developer from Japan that often Codes in C, C++ or Assembly, i am active in Operation System and Other Low Level System Stuff. I use OpenSUSE
