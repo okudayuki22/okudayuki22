@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/okudayuki22/okudayuki22/blob/main/bdedb48cc353c83b6e6e35ef796b7b42.jpg?raw=true" />
+  <img src="https://github.com/okudayuki22/okudayuki22/blob/main/ce3aabdefcbe2d49d664370343de1699.jpg?raw=true" />
 </p>
 
 ### こんにちは〜
