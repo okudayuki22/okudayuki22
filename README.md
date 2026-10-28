@@ -1,5 +1,4 @@
 <img width="173" height="200" alt="image" src="https://github.com/user-attachments/assets/a18a0ca8-79f4-41df-9e93-591318fabbd4" /><p align="center" border="0px">
-  <img src="https://github.com/okudayuki22/okudayuki22/blob/main/ce3aabdefcbe2d49d664370343de1699.jpg?raw=true" />
 </p>
 
 ---
@@ -13,7 +12,6 @@ I am Okuda Yūki (奥田悠来), a Hobby Developer from Japan. I Code in C and i
 奥田悠来（Okuda Yuuki)です。OSやローレベル開発をしていて、メイン言語はC/C++です。
 
 <img src="https://github.com/okudayuki22/okudayuki22/blob/main/Linux.gif">
-">
 
 ---
 
