@@ -1,4 +1,4 @@
-<img width="173" height="200" alt="image" src="https://github.com/okudayuki22/okudayuki22/blob/main/ce3aabdefcbe2d49d664370343de1699.jpg" /><p align="center" border="0px">
+<img alt="image" src="https://github.com/okudayuki22/okudayuki22/blob/main/ce3aabdefcbe2d49d664370343de1699.jpg" /><p align="center" border="0px">
 </p>
 
 ---
