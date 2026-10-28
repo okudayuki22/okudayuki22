@@ -10,7 +10,7 @@ I am Okuda Yūki (奥田悠来), a Hobby Developer from Japan. I Code in C and i
 
 <br>
 
-奥田悠来（Okuda Yuuki)です。OSやローレベル開発、C/C++をしていて、メイン言語はC/C++です。
+奥田悠来（Okuda Yuuki)です。OSやローレベル開発をしていて、メイン言語はC/C++です。
 
 ---
 
